@@ -1,0 +1,30 @@
+D:\Project\C#\projectCalculator\projectCalculator\bin\Debug\projectCalculator.exe.config
+D:\Project\C#\projectCalculator\projectCalculator\bin\Debug\projectCalculator.exe
+D:\Project\C#\projectCalculator\projectCalculator\bin\Debug\projectCalculator.pdb
+D:\Project\C#\projectCalculator\projectCalculator\obj\Debug\projectCalculator.csprojAssemblyReference.cache
+D:\Project\C#\projectCalculator\projectCalculator\obj\Debug\projectCalculator.Form1.resources
+D:\Project\C#\projectCalculator\projectCalculator\obj\Debug\projectCalculator.Properties.Resources.resources
+D:\Project\C#\projectCalculator\projectCalculator\obj\Debug\projectCalculator.csproj.GenerateResource.cache
+D:\Project\C#\projectCalculator\projectCalculator\obj\Debug\projectCalculator.csproj.CoreCompileInputs.cache
+D:\Project\C#\projectCalculator\projectCalculator\obj\Debug\projectCalculator.exe
+D:\Project\C#\projectCalculator\projectCalculator\obj\Debug\projectCalculator.pdb
+C:\Users\my comp1\Desktop\projectCalculator (2)\projectCalculator\bin\Debug\projectCalculator.exe.config
+C:\Users\my comp1\Desktop\projectCalculator (2)\projectCalculator\bin\Debug\projectCalculator.exe
+C:\Users\my comp1\Desktop\projectCalculator (2)\projectCalculator\bin\Debug\projectCalculator.pdb
+C:\Users\my comp1\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.csproj.AssemblyReference.cache
+C:\Users\my comp1\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.Form1.resources
+C:\Users\my comp1\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.Properties.Resources.resources
+C:\Users\my comp1\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.csproj.GenerateResource.cache
+C:\Users\my comp1\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.csproj.CoreCompileInputs.cache
+C:\Users\my comp1\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.exe
+C:\Users\my comp1\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.pdb
+C:\Users\Sanya\Desktop\projectCalculator (2)\projectCalculator\bin\Debug\projectCalculator.exe.config
+C:\Users\Sanya\Desktop\projectCalculator (2)\projectCalculator\bin\Debug\projectCalculator.exe
+C:\Users\Sanya\Desktop\projectCalculator (2)\projectCalculator\bin\Debug\projectCalculator.pdb
+C:\Users\Sanya\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.csprojAssemblyReference.cache
+C:\Users\Sanya\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.Form1.resources
+C:\Users\Sanya\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.Properties.Resources.resources
+C:\Users\Sanya\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.csproj.GenerateResource.cache
+C:\Users\Sanya\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.exe
+C:\Users\Sanya\Desktop\projectCalculator (2)\projectCalculator\obj\Debug\projectCalculator.pdb
